@@ -47,7 +47,7 @@ const certificates = [
   },
   {
     id: 6,
-    name: "JavaScript: Utilizando Tipos, Variáveis e Funções",
+    name: "JavaScript — Utilizando Tipos, Variáveis e Funções",
     institution: "Alura",
     category: "JavaScript",
     color: "#F0DB4F",
