@@ -47,7 +47,7 @@ function ProjectCards(props) {
               target="_blank"
               style={{ marginLeft: "10px" }}
             >
-              <CgWebsite /> &nbsp;Demo
+              <CgWebsite /> &nbsp;Acessar projeto
             </Button>
           )}
         </div>

@@ -36,7 +36,7 @@ function Projects() {
               title="Filipe Cell Celulares"
               description="Landing page moderna e responsiva desenvolvida para a Filipe Cell Celulares, loja de celulares de Martinho Campos-MG. Projeto focado em experiência do usuário, conversão e identidade visual da marca."
               ghLink="https://github.com/fabio-tech-dev/FilipeCel"
-              demoLink="https://filipe-cel.vercel.app"
+              demoLink="https://filipecell-celulares.vercel.app"
               techStack={["HTML5", "CSS3", "JavaScript"]}
             />
           </Col>
@@ -60,7 +60,7 @@ function Projects() {
               title="AssetPulse"
               description="Aplicação web para gerenciamento e monitoramento de ativos. Sistema desenvolvido com JavaScript para controle, organização e acompanhamento de recursos de forma prática e eficiente."
               ghLink="https://github.com/fabio-tech-dev/AssetPulse"
-              demoLink="https://sistema-assetpulsevercel-c6cusozsj-mrzoreiasekas-projects.vercel.app"
+              demoLink="https://assetpulse.vercel.app"
               techStack={["JavaScript"]}
             />
           </Col>
